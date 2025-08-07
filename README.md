@@ -8,17 +8,6 @@ I build meaningful web apps that solve real problems and constantly level up by 
 
 ---
 
-## 💼 Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **🎮 Cyber Play Arena** | Modern booking system for console gaming centers | Next.js, TypeScript, Tailwind CSS |
-| **💰 TuitionTrack** | Student & fee management for tuition centers | React, Firebase, REST APIs |
-| **💸 SpendoFrontend** | Smart budget management interface | React, Tailwind CSS, Chart.js |
-| **💌 Dear-U** | [Add your project description] | [Your tech stack] |
-
----
-
 ## 🛠️ Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
