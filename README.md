@@ -28,9 +28,6 @@ I build meaningful web apps that solve real problems and constantly level up by 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rayat-7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayat-7&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rayat-7&theme=tokyonight" alt="GitHub Streak" />
-</div>
 
 ---
 
