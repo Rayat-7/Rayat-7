@@ -10,15 +10,7 @@
 
 I'm a passionate **Computer Science Engineering student** at **United International University** who loves building meaningful software solutions. I enjoy creating web applications that solve real-world problems and constantly learning new technologies.
 
-```typescript
-const rayat = {
-  location: "Dhaka, Bangladesh",
-  education: "CSE @ United International University",
-  currentFocus: ["Software Development", "Web Technologies", "Problem Solving"],
-  interests: ["Building useful applications", "Learning new tech"],
-  motto: "Code with purpose"
-}
-```
+
 
 ---
 
