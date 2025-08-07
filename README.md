@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Raisoul rayat 👋</h1>
 
-<!--
-**Rayat-7/Rayat-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Creating impactful web experiences with Next.js — exploring SaaS and AI-powered solutions.</b>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects & Interests
+- 🎮 **Cyber Play Arena** – Real-time booking system for console gaming
+- 📊 Custom dashboard widgets for smart systems
+- 🧠 Building tools that blend utility with AI
+
+---
+
+### 🛠️ Tech I Use
+- **Frontend:** Next.js, React, Tailwind CSS, ShadCN
+- **Backend:** Prisma, PostgreSQL, MySQL, REST APIs
+- **Auth:** Firebase Auth, Clerk
+- **Other:** ThingsBoard, Git, GitHub, Vercel
+
+---
+
+### 📚 Currently Exploring
+- API design best practices
+- Scalable SaaS architecture
+- AI integrations in modern apps
+
+---
+
+### 🤝 Let's Connect
+I'm open to collaboration and learning opportunities.  
+Feel free to check out my work and reach out!
+
+<p align="center">
+  <a href="https://github.com/[yourusername]">
+    <img src="https://github-readme-stats.vercel.app/api?username=[yourusername]&show_icons=true&theme=tokyonight" />
+  </a>
+</p>
