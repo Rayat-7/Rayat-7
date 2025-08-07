@@ -4,8 +4,6 @@ Raisul Rayat Omi
 
 Tech Enthusiast
 I build meaningful web apps that solve real problems and constantly level up by exploring new tech and ideas and I love it.
-
-
 ---
 
 ## 🛠️ Tech Stack
@@ -19,16 +17,13 @@ I build meaningful web apps that solve real problems and constantly level up by 
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=Prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black)
-
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rayat-7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayat-7&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-
 ---
 
 ## 🌟 What I'm About
