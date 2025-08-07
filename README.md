@@ -10,7 +10,7 @@
 - 🚀 Learning new technologies and best practices
 - 💡 Creating clean, maintainable code
 - 🎓 Growing as a developer through hands-on projects
----
+  
 
 ## 🛠️ Tech Stack
 
@@ -30,7 +30,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black)
 
----
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayat-7&layout=compact&langs_count=7&theme=tokyo&border_radius=10"/>
 </div>
