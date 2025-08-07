@@ -8,7 +8,9 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Computer Science Engineering student** at **United International University** who loves building meaningful software solutions. I enjoy creating web applications that solve real-world problems and constantly learning new technologies.
+
+I build meaningful web apps that solve real problems and constantly level up by exploring new tech and ideas and I love it.
+
 
 
 
