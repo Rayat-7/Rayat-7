@@ -1,9 +1,7 @@
 Raisul Rayat Omi
 ---
-
-
 Tech Enthusiast
-I build meaningful web apps that solve real problems and constantly level up by exploring new tech and ideas and I love it.
+-I build meaningful web apps that solve real problems and constantly level up by exploring new tech and ideas and I love it.
 ---
 
 ## 🛠️ Tech Stack
