@@ -1,17 +1,9 @@
-# Hi there, I'm Rayat 👋
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=64748B&center=true&vCenter=true&width=435&lines=Software+Developer;CSE+Student+%40+UIU;Tech+Enthusiast;Building+Solutions" alt="Typing SVG" />
-</div>
-
+Raisul Rayat Omi
 ---
 
-## 🚀 About Me
 
-
+Tech Enthusiast
 I build meaningful web apps that solve real problems and constantly level up by exploring new tech and ideas and I love it.
-
-
 
 
 ---
