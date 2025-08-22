@@ -31,11 +31,6 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black)
 
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayat-7&layout=compact&langs_count=7&theme=tokyo&border_radius=10"/>
-</div>
----
-
 
 <div align="center">
 
