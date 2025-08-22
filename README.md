@@ -2,7 +2,7 @@
 
 
 
-**Tech Enthusiast** - I build meaningful web apps that solve real problems and constantly level up by exploring new tech and ideas and I love it.
+**Web Developer $ Aspiring Entrepreneur ** - I build meaningful web apps that solve real life problems and constantly level up by exploring new tech and ideas and I love it.
 
 ## 🌟 What I'm About
 
